@@ -28,6 +28,25 @@ The goal is to uncover ***actionable insights*** that can inform **smarter tradi
   * Timestamp
 
 ---
+##*Outputs*
+**This are from Streamlit dashboard** 
+<img width="1910" height="962" alt="image" src="https://github.com/user-attachments/assets/6b3dc924-5eab-421d-a5ef-3ca25fb5a0cf" />
+
+<img width="930" height="840" alt="image" src="https://github.com/user-attachments/assets/4b9b8102-f953-4829-b374-d33255220c38" />
+
+<img width="920" height="876" alt="image" src="https://github.com/user-attachments/assets/914c3123-2c34-467a-97ef-60111e553685" />
+
+<img width="915" height="846" alt="image" src="https://github.com/user-attachments/assets/b540e9af-36bc-48d9-85a3-63720fbf3786" />
+
+<img width="897" height="348" alt="image" src="https://github.com/user-attachments/assets/cde1cb43-1a8c-43a6-a92a-67c11ddbf1fb" />
+
+**This are from analysis**
+
+<img width="711" height="653" alt="image" src="https://github.com/user-attachments/assets/4ee4c8fd-e365-4824-a3e2-4ceb640ebd52" />
+
+<img width="817" height="573" alt="image" src="https://github.com/user-attachments/assets/81707c3b-1a0e-43a9-9e0d-ca6f9fb20ecf" />
+
+<img width="756" height="567" alt="image" src="https://github.com/user-attachments/assets/4829bf05-3e0b-47cb-b158-9aae61e93f62" />
 
 ## ⚙️ **Methodology**
 
